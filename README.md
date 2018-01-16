@@ -1,1 +1,1 @@
-# git-update-web-page
+# Sample application that updates a static web page
